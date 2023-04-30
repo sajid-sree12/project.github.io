@@ -1,12 +1,10 @@
 body {
     background-image: url("images/backpic.jpg");
-    background-blend-mode: multiply;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    position: relative;
     min-height: 100%;
 }
 
