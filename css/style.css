@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/backpic.jpg");
+    background-image: url("images/backpic.jpg");
     background-blend-mode: multiply;
     background-attachment: fixed;
     background-position: center;
