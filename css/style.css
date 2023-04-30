@@ -1,0 +1,78 @@
+body {
+    background-image: url("/images/backpic.jpg");
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    min-height: 100%;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: orangered;
+}
+
+.search {
+    background-color: orangered;
+}
+
+.white {
+    color: white;
+}
+
+.orangered {
+    color: rgb(213, 110, 0);
+}
+
+.title {
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chead {
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.input {
+    border: 0px;
+    border-bottom: 2px rgb(213, 110, 0) solid;
+    border-radius: 0px;
+}
+
+.about {
+    text-align: justify;
+}
+
+p {
+    color: rgb(193, 192, 192);
+}
+
+.loginbtn {
+    background-color: rgb(213, 110, 0);
+    color: white;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.loginbtn:hover {
+    background-color: tomato;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: white;
+    opacity: 70%;
+}
+
+.signup {
+    color: orange;
+    text-decoration: none;
+}
